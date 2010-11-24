@@ -7,7 +7,7 @@ SOURCE_DIR = os.path.join(ROOT_DIR)
 
 setup(
     name = "form-designer",
-    version = "1",
+    version = "2",
     packages = find_packages(),
     zip_safe = False,
 )
